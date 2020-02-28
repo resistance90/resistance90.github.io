@@ -86,7 +86,7 @@ switch( n ){
 console.log('Task 8 in main window');
 
 for (var i = 0; i < 10 ; i++) {
-    document.write('<img src="http://tarasov.pro/img/photo.png" alt="Надо было использовать хром..." />');
+    document.write('<img src="https://pages.github.com/images/logo.svg" alt="Надо было использовать хром..." />');
 }
 
 //(*) В переменных size и unit хранятся размер и единицы измерения информации 120 и «Кб» соответственно. Зная что могут быть заданные Кб, Мб, Гб (кило-, мега- и гигабайты) и 1килобайт равен 1024 байта, найти количество байт в size.
